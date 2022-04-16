@@ -37,7 +37,7 @@ function App() {
         </Reveal>
         <Reveal keyframes={fadeFromRight} delay={500}>
           <h3>
-            Working as an Application Developer, I build and maintain VueJS and Angular 2+ apps with NodeJS microservices
+            Working as an Application Developer, I build and maintain VueJS and React apps with NodeJS microservices
           </h3>
         </Reveal>
       </div>
