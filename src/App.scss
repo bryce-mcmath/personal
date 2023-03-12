@@ -1,7 +1,7 @@
-@use 'styles/_reset.scss';
+@use "styles/_reset.scss";
 
 .unit {
-  font-family: 'Outfit', sans-serif;
+  font-family: "Outfit", sans-serif;
   height: 100vh;
   width: 100%;
   display: flex;
@@ -35,6 +35,12 @@
 
   &--first {
     text-align: left;
+  }
+}
+
+.unit-quartech {
+  > * img {
+    max-height: 200px;
   }
 }
 
